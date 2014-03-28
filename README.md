@@ -47,6 +47,7 @@
 ## Slides
 
 * [WELCOME TO THE MEAN STACK: MONGODB, EXPRESS, ANGULARJS, NODE](http://robrich.org/slides/welcome_to_the_mean_stack/#/)
+* [Get MEAN! Node.js and the MEAN stack](http://pt.slideshare.net/NicholasMcClay/get-mean-nodejs-and-the-mean-stack)
 
 ## Podcasts
 
