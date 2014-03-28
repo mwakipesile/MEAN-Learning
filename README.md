@@ -33,6 +33,7 @@
 * [Build a real-time polls application with Node.js, Express, AngularJS, and MongoDB](https://www.youtube.com/watch?v=9LFsQSNrQ_U)
 * [Let's Get CRUDdy: AngularJS and Node.js Ferrari Example](https://www.youtube.com/watch?v=T-luUYq_obQ)
 * [M.E.A.N. - a stack do hipsters (pt-br)](https://www.youtube.com/watch?v=7m_XmSJxSg8)
+* [MEAN stack - episode 1](http://tagtree.tv/mean-stack-episode1)
 
 ## Courses
 
