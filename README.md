@@ -25,6 +25,7 @@
 * [ntro to the MEAN Stack - Part 1 - The Data](http://progadventure.blogspot.com.br/2013/11/intro-to-mean-stack-part-1-data.html)
 * [REST Service with Web Interface using the MEAN Stack](http://www.qat.com/rest-service-web-interface-using-mean-stack/)
 * [MEAN Stack Resources (MongoDB, ExpressJS, AngularJS & Node.js)](http://www.eightytwenty.co/mean-stack-resources-mongodb-expressjs-angularjs-node-js/)
+* [Getting Started with Node.js #2: Using OAuth2 in MEAN applications](http://www.xorcode.com/2013/08/22/getting-started-with-node-js-using-oauth2-in-mean/)
 
 ## Videos
 
