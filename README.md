@@ -54,3 +54,8 @@
 
 * [092 JSJ The MEAN Stack with Ward Bell and Valeri Karpov](http://javascriptjabber.com/092-jsj-the-mean-stack-with-ward-bell-and-valeri-karpov/)
 
+## More Useful Links
+
+* [THE DEAD-SIMPLE STEP-BY-STEP GUIDE FOR FRONT-END DEVELOPERS TO GETTING UP AND RUNNING WITH NODE.JS, EXPRESS, JADE, AND MONGODB](http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/)
+* [CREATING A SIMPLE RESTFUL WEB APP WITH NODE.JS, EXPRESS, AND MONGODB](http://cwbuecheler.com/web/tutorials/2014/restful-web-app-node-express-mongodb/)
+
