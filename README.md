@@ -65,4 +65,6 @@
 * [CREATING A SIMPLE RESTFUL WEB APP WITH NODE.JS, EXPRESS, AND MONGODB](http://cwbuecheler.com/web/tutorials/2014/restful-web-app-node-express-mongodb/)
 * [mean.io](http://www.mean.io/)
 * [mean.js](http://meanjs.org/)
+* [NodeJS Learning](https://github.com/sergtitov/NodeJS-Learning)
+* [AngularJS Learning](https://github.com/jmcunningham/AngularJS-Learning)
 
