@@ -31,6 +31,7 @@
 * [The BMEAN Stack and Offline-First Design](http://dailyjs.com/2014/04/11/bmean/)
 * [Introduction to the MEAN Stack - SitePoint](http://www.sitepoint.com/introduction-mean-stack/)
 * [Deploying mean.io to Heroku with ease](http://www.100percentjs.com/category/mean/)
+* [MEAN Stack – A Quick Start Guide](http://flippinawesome.org/2014/04/21/mean-stack-a-quick-start-guide)
 
 ## Videos
 
