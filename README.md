@@ -12,7 +12,7 @@
 * [Introduction to the MEAN Stack, Part One: Setting Up Your Tools](http://thecodebarbarian.wordpress.com/2013/07/22/introduction-to-the-mean-stack-part-one-setting-up-your-tools/)
 * [Introduction to the MEAN Stack, Part Two: Building and Testing a To-do List](http://thecodebarbarian.wordpress.com/2013/07/29/introduction-to-the-mean-stack-part-two-building-and-testing-a-to-do-list/)
 * [Price Internationalization with the MEAN Stack](http://thecodebarbarian.wordpress.com/2013/12/02/price-internationalization-with-the-mean-stack/)
-* [The MEAN Stack: MongoDB, ExpressJS, AngularJS, and Node.js](The MEAN Stack: MongoDB, ExpressJS, AngularJS, and Node.js)
+* [The MEAN Stack: MongoDB, ExpressJS, AngularJS, and Node.js](http://blog.mongodb.org/post/49262866911/the-mean-stack-mongodb-expressjs-angularjs-and)
 * [Setting Up a MEAN Stack Single Page Application](http://scotch.io/bar-talk/setting-up-a-mean-stack-single-page-application)
 * [Node and Angular To-Do App](http://scotch.io/series/node-and-angular-to-do-app)
 * [Single Page Apps with AngularJS Routing and Templating](http://scotch.io/tutorials/javascript/single-page-apps-with-angularjs-routing-and-templating)
