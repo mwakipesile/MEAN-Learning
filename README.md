@@ -52,7 +52,8 @@
 
 * [Getting MEAN with Mongo, Express, Angular, and Node](http://www.manning.com/sholmes/)
 * [Mean: Full stack JavaScript para aplicações web com MongoDB, Express, Angular e Node](http://www.casadocodigo.com.br/products/livro-mean) 
-
+* [MEAN Machine - A beginner's practical guide to the JavaScript stack. By Scotch.io](https://leanpub.com/mean-machine) 
+* 
 ## Slides
 
 * [WELCOME TO THE MEAN STACK: MONGODB, EXPRESS, ANGULARJS, NODE](http://robrich.org/slides/welcome_to_the_mean_stack/#/)
