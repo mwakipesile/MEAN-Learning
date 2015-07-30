@@ -47,13 +47,16 @@
 * [be MEAN](http://bemean.com.br/)
 * [Building AngularJS and Node.js Apps with the MEAN Stack](http://pluralsight.com/training/Courses/TableOfContents/building-angularjs-nodejs-apps-mean)
 * [Introdução ao MEAN-Stack](http://www.alura.com.br/cursos-online-front-end#mean)
+* [MEAN Stack Jump Start by Microsoft Virtual Academy](https://www.microsoftvirtualacademy.com/en-us/training-courses/mean-stack-jump-start-8442)
+* [The 30 Day MEAN Stack Honolulu Challenge - Bossable](http://www.bossable.com/555/mean-app-challenge)
 
 ## Books
 
+* [MEAN Web Development](https://www.packtpub.com/web-development/mean-web-development)
 * [Getting MEAN with Mongo, Express, Angular, and Node](http://www.manning.com/sholmes/)
 * [Mean: Full stack JavaScript para aplicações web com MongoDB, Express, Angular e Node](http://www.casadocodigo.com.br/products/livro-mean) 
 * [MEAN Machine - A beginner's practical guide to the JavaScript stack. By Scotch.io](https://leanpub.com/mean-machine) 
-* 
+
 ## Slides
 
 * [WELCOME TO THE MEAN STACK: MONGODB, EXPRESS, ANGULARJS, NODE](http://robrich.org/slides/welcome_to_the_mean_stack/#/)
