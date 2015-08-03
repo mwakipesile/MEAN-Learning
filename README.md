@@ -32,6 +32,8 @@
 * [Introduction to the MEAN Stack - SitePoint](http://www.sitepoint.com/introduction-mean-stack/)
 * [Deploying mean.io to Heroku with ease](http://www.100percentjs.com/category/mean/)
 * [MEAN Stack – A Quick Start Guide](http://flippinawesome.org/2014/04/21/mean-stack-a-quick-start-guide)
+* [AngularJS Tutorial for Beginners With NodeJS ExpressJS and MongoDB](http://adrianmejia.com/blog/2014/09/28/angularjs-tutorial-for-beginners-with-nodejs-expressjs-and-mongodb/)
+* [Create a TV Show Tracker using AngularJS, Node.js and MongoDB](http://sahatyalkabov.com/create-a-tv-show-tracker-using-angularjs-nodejs-and-mongodb/)
 
 ## Videos
 
@@ -61,6 +63,7 @@
 
 * [WELCOME TO THE MEAN STACK: MONGODB, EXPRESS, ANGULARJS, NODE](http://robrich.org/slides/welcome_to_the_mean_stack/#/)
 * [Get MEAN! Node.js and the MEAN stack](http://pt.slideshare.net/NicholasMcClay/get-mean-nodejs-and-the-mean-stack)
+* [MEAN Stack](https://speakerdeck.com/k_kato/mean-stack)
 
 ## Podcasts
 
