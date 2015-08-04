@@ -51,6 +51,7 @@
 * [Introdução ao MEAN-Stack](http://www.alura.com.br/cursos-online-front-end#mean)
 * [MEAN Stack Jump Start by Microsoft Virtual Academy](https://www.microsoftvirtualacademy.com/en-us/training-courses/mean-stack-jump-start-8442)
 * [The 30 Day MEAN Stack Honolulu Challenge - Bossable](http://www.bossable.com/555/mean-app-challenge)
+* [Free Code Camp - Coding bootcamp](http://www.freecodecamp.com)
 
 ## Books
 
@@ -73,6 +74,7 @@
 
 * [THE DEAD-SIMPLE STEP-BY-STEP GUIDE FOR FRONT-END DEVELOPERS TO GETTING UP AND RUNNING WITH NODE.JS, EXPRESS, JADE, AND MONGODB](http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/)
 * [CREATING A SIMPLE RESTFUL WEB APP WITH NODE.JS, EXPRESS, AND MONGODB](http://cwbuecheler.com/web/tutorials/2014/restful-web-app-node-express-mongodb/)
+* [Heroku - Cloud Application Platform](https://www.heroku.com)
 * [mean.io](http://www.mean.io/)
 * [mean.js](http://meanjs.org/)
 * [NodeJS Learning](https://github.com/sergtitov/NodeJS-Learning)
