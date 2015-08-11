@@ -34,6 +34,7 @@
 * [MEAN Stack – A Quick Start Guide](http://flippinawesome.org/2014/04/21/mean-stack-a-quick-start-guide)
 * [AngularJS Tutorial for Beginners With NodeJS ExpressJS and MongoDB](http://adrianmejia.com/blog/2014/09/28/angularjs-tutorial-for-beginners-with-nodejs-expressjs-and-mongodb/)
 * [Create a TV Show Tracker using AngularJS, Node.js and MongoDB](http://sahatyalkabov.com/create-a-tv-show-tracker-using-angularjs-nodejs-and-mongodb/)
+* [Deploying a MEAN App to Amazon EC2](https://scotch.io/tutorials/deploying-a-mean-app-to-amazon-ec2-part-1)
 
 ## Videos
 
@@ -52,6 +53,7 @@
 * [MEAN Stack Jump Start by Microsoft Virtual Academy](https://www.microsoftvirtualacademy.com/en-us/training-courses/mean-stack-jump-start-8442)
 * [The 30 Day MEAN Stack Honolulu Challenge - Bossable](http://www.bossable.com/555/mean-app-challenge)
 * [Free Code Camp - Coding bootcamp](http://www.freecodecamp.com)
+* [egghead.io - Learn professional JavaScript tools](https://egghead.io)
 
 ## Books
 
