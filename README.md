@@ -35,6 +35,7 @@
 * [AngularJS Tutorial for Beginners With NodeJS ExpressJS and MongoDB](http://adrianmejia.com/blog/2014/09/28/angularjs-tutorial-for-beginners-with-nodejs-expressjs-and-mongodb/)
 * [Create a TV Show Tracker using AngularJS, Node.js and MongoDB](http://sahatyalkabov.com/create-a-tv-show-tracker-using-angularjs-nodejs-and-mongodb/)
 * [Deploying a MEAN App to Amazon EC2](https://scotch.io/tutorials/deploying-a-mean-app-to-amazon-ec2-part-1)
+* [Mean Stack Tutorial - for beginners](http://www.bradoncode.com/tutorials/learn-mean-stack-tutorial/)
 
 ## Videos
 
