@@ -55,7 +55,7 @@
 * [MEAN Stack Jump Start by Microsoft Virtual Academy](https://www.microsoftvirtualacademy.com/en-us/training-courses/mean-stack-jump-start-8442)
 * [The 30 Day MEAN Stack Honolulu Challenge - Bossable](http://www.bossable.com/555/mean-app-challenge)
 * [egghead.io - Learn professional JavaScript tools](https://egghead.io)
-* [Become a MEAN Stack Developer - CodeSchool](https://www.codeschool.com/mean)
+* [Become a MEAN Stack Developer - Code School](https://www.codeschool.com/mean)
 
 ## Books
 
