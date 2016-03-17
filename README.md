@@ -36,6 +36,7 @@
 * [Create a TV Show Tracker using AngularJS, Node.js and MongoDB](http://sahatyalkabov.com/create-a-tv-show-tracker-using-angularjs-nodejs-and-mongodb/)
 * [Deploying a MEAN App to Amazon EC2](https://scotch.io/tutorials/deploying-a-mean-app-to-amazon-ec2-part-1)
 * [Mean Stack Tutorial - for beginners](http://www.bradoncode.com/tutorials/learn-mean-stack-tutorial/)
+* MEAN Stack : Real-time polls application - [part 1](http://www.bogotobogo.com/MEAN-Stack/MEAN-Stack-MongoDB-ExpressJS-AngularJS-NodeJS-PollsApp-1.php), [part 2](http://www.bogotobogo.com/MEAN-Stack/MEAN-Stack-MongoDB-ExpressJS-AngularJS-NodeJS-PollsApp-2.php)
 
 ## Videos
 
