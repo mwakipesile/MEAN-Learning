@@ -57,6 +57,7 @@
 * [The 30 Day MEAN Stack Honolulu Challenge - Bossable](http://www.bossable.com/555/mean-app-challenge)
 * [egghead.io - Learn professional JavaScript tools](https://egghead.io)
 * [Become a MEAN Stack Developer - Code School](https://www.codeschool.com/mean)
+* [Build a course planner for a school with MEAN](https://www.youtube.com/watch?v=FrTxjO6waNs&list=PL8jcXf-CLpxpHNKYAY1GM_b6_L0FhFLe0)
 
 ## Books
 
