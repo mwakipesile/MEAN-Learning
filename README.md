@@ -28,7 +28,6 @@
 * [Getting Started with Node.js #2: Using OAuth2 in MEAN applications](http://www.xorcode.com/2013/08/22/getting-started-with-node-js-using-oauth2-in-mean/)
 * [Introduction to the MEAN Stack](http://code.tutsplus.com/tutorials/introduction-to-the-mean-stack--cms-19918)
 * [Creating an RSS Feed Reader With the MEAN Stack](http://code.tutsplus.com/tutorials/creating-an-rss-feed-reader-with-the-mean-stack--cms-20563)
-* [The BMEAN Stack and Offline-First Design](http://dailyjs.com/2014/04/11/bmean/)
 * [Introduction to the MEAN Stack - SitePoint](http://www.sitepoint.com/introduction-mean-stack/)
 * [Deploying mean.io to Heroku with ease](http://www.100percentjs.com/category/mean/)
 * [MEAN Stack – A Quick Start Guide](http://flippinawesome.org/2014/04/21/mean-stack-a-quick-start-guide)
